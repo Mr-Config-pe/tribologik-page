@@ -88,17 +88,17 @@ p.danger {
 }
 
 nav.navbar {
-  padding: 18px 0;
+  padding: 20px 0;
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 9999;
   transition:  0.32s ease-in-out;
-  background-color: #7a7f81;
+  background-color: #0d6588;
 }
 
 nav.navbar.scrolled {
-  padding: 18px 0;
+  padding: 20px 0;
   background-color: #121212; /* background-color: #121212; */
 }
 
@@ -579,7 +579,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .contact {
   padding: 100px 0 50px 0;
-  background-color: #7a7f81;
+  background-color: #121212;
   text-align: center;
 }
 
@@ -684,7 +684,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .footer {
   padding: 50px 0 0 0;
-  background-color: #121212;
+  background-color: #0d6588;
   /* background-image: url('./assets/img/footer-bg.png'); Imagen de Fondo*/ 
   background-position: center center;
   background-size: cover;
@@ -768,6 +768,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #B8B8B8;
   letter-spacing: 0.5px;
   margin-top: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.footer p strong {
+  color: #ffffff;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .email-footer {
@@ -775,7 +781,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .colfooter3 {
-background-color: #7a7f81;
+background-color: #121212;
 position: relative;
 top: -50px;
 padding-top: 50px;
@@ -807,9 +813,19 @@ align-items: center;
   background-color: transparent;
 }
 
+
 }
 
 @media (max-width:768px) {
+
+.banner {
+  padding: 71px 0 0 0;
+}
+
+.navbar{
+  background-color: #121212;
+}
+
 	/*Por el momento nada*/
 .highlight {
   display: none;
@@ -818,6 +834,11 @@ align-items: center;
 .banner h2 {
   font-size: 1.5rem;
 }
+
+.about p {
+  text-align: left;
+}
+
 
 }
 

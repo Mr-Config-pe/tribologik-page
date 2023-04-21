@@ -25,7 +25,7 @@ export const Footer = () => {
               DIRECCION <br /> EN USA
             </h3>
             <p>
-              TECHNO STANDARD CORP.
+              <strong>TECHNO STANDARD CORP.</strong>
               <br /> 8345 NW 68 Street <br /> Miami, Florida 33166 <br />
               Phone: (786) 2458168 <br />
               Email: <br />
@@ -40,7 +40,7 @@ export const Footer = () => {
               DIRECCION <br /> EN PERU
             </h3>
             <p>
-              TECHNO STANDARD CORP.
+              <strong>TECHNO STANDARD CORP.</strong>
               <br /> Calle Domingo Casanova 337 <br /> Lince, Lima 14-PERU{" "}
               <br />
               Telf. 440-0111
