@@ -1,4 +1,4 @@
-# TECHNO-STANDARD-SAC WEB in React
+# Tribologik - React Web Page
 
 Built using:
 
