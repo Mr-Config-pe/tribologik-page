@@ -25,12 +25,12 @@ export const Footer = () => {
               DIRECCION <br /> EN USA
             </h3>
             <p>
-              <strong>TECHNO STANDARD CORP.</strong>
-              <br /> 8345 NW 68 Street <br /> Miami, Florida 33166 <br />
-              Phone: (786) 2458168 <br />
+              <strong>TRIBOLOGIK®</strong>
+              <br /> 1212, 172nd Street <br /> Hammond IN 46324<br />
+              Phone: +1 (219) 228 4844 <br />
               Email: <br />
               <span className="email-footer">
-                sales@mantenimientoindustriales.com
+                page@bymr-config.com
               </span>{" "}
               <br />
             </p>
@@ -40,15 +40,13 @@ export const Footer = () => {
               DIRECCION <br /> EN PERU
             </h3>
             <p>
-              <strong>TECHNO STANDARD CORP.</strong>
-              <br /> Calle Domingo Casanova 337 <br /> Lince, Lima 14-PERU{" "}
+              <strong>TRIBOLOGIK®</strong>
+              <br /> Calle Eucapiltos 58 <br /> Surco, Lima 14 - PERU{" "}
               <br />
-              Telf. 440-0111
-              <br />
-              Celular: 985250146 <br />
+              Celular: 00000000 <br />
               Email: <br />
               <span className="email-footer">
-                ventas@mantenimientoindustriales.com
+                pagina@bymr-config.com
               </span>
             </p>
           </Col>
@@ -66,9 +64,9 @@ export const Footer = () => {
                 <img src={navIcon3} alt="icon-instagram" />
               </a>
             </div>
-            <p>
-              Copyright 2023 TECHNO STANDARD CORP.
-              <br /> Todos Los Derechos Reservados <br /> By Mr.Config
+            <p className="footer-copyright">
+              Copyright 2023 TRIBOLOGIK®.
+              <br /> Developer <a href="https://www.linkedin.com/in/mr-config" target="_blak">By Mr.Config</a>
             </p>
           </Col>
         </Row>

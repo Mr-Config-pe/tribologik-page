@@ -8,9 +8,9 @@ export const About = () => {
           <Col size={12}>
             <h2>¿Quienes Somos?</h2>
             <br />
-            <strong className="about-st1">TECHNO STANDARD SAC</strong>
+            <strong className="about-st1">TRIBOLOGIK®</strong>
             <p className="about-p1">
-              Tiene como socio estratégico a TRIBOLOGIK® LABORATORIO DE ANALISIS
+              TRIBOLOGIK® LABORATORIO DE ANALISIS
               DE LUBRICANTES que nos permite tener a una amplia gama de
               servicios de Mantenimiento Industrial para industrias en general.
               toda infraestructura que implique el uso de Comprensores,

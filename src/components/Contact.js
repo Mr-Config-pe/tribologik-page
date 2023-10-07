@@ -51,7 +51,7 @@ export const Contact = () => {
         <Row className="align-items-center">
           <Col size={12} md={6}>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5517.287968612267!2d-77.03605651956178!3d-12.090798357426333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c9e55d0307ed%3A0x33005c0c275a5c59!2sTECHNO%20STANDARD%20SAC!5e0!3m2!1ses!2spe!4v1681949547553!5m2!1ses!2spe"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6111988.406909089!2d-92.77421640000003!3d41.582891999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8811de2d4a95ecd5%3A0x70f0e1445bd0b271!2sTribologik%20Laboratories!5e0!3m2!1ses!2spe!4v1696626799424!5m2!1ses!2spe"
               width="100%"
               height="550px"
               allowFullScreen=""

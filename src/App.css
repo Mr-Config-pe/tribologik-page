@@ -801,6 +801,10 @@ align-items: center;
   border-radius: 25px;
 }
 
+footer .footer-copyright a {
+  text-decoration: none;
+}
+
 /*------ Media Query ------*/
 
 @media (max-width:575px){
